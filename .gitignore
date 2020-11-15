@@ -1,0 +1,5 @@
+data/only_event/
+train/
+divided_by_classes
+__pycache__
+.vscode
